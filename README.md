@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="CANVA1.jpg">
+</p>
 
-<!--
-**gustavoptavares/gustavoptavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cientista de Dados | Machine Learning
 
-Here are some ideas to get you started:
+Cientista de Dados com conhecimento em análise exploratória de dados, visualização de dados, modelos preditivos de machine learning, algortimos de classificação, algoritmos de clusterização, algoritmos de regressão, algoritmos de série temporais. Proficiente em Python e SQL. Hábil na manipulação e análise de grandes conjuntos de dados, com forte foco na tomada de decisões baseada em dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos:
+
+* **[Seguro Saúde - Algoritmo de Regressão](https://github.com/gustavoptavares/Seguro-Saude)**
+
+* **[Manutenção Preditiva AI4I - Algoritmo de Classificação](https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I)**
+
+* **[Vendas Walmart - Algoritmo de Regressão](https://github.com/gustavoptavares/Walmart-Vendas)**
+
+* **[Vinho - Algoritmo de Clusterização](https://github.com/gustavoptavares/Vinho)**
