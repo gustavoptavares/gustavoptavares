@@ -12,6 +12,8 @@ Cientista de dados com conhecimento em coleta e limpeza de dados, análise explo
 
 * **[Manutenção Preditiva AI4I - Algoritmo de Classificação](https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I)**
 
+* * **[Manutenção de Elevadores - Algoritmo de Série Temporais](https://github.com/gustavoptavares/Manutencao-Elevador)**
+
 * **[Vendas Walmart - Algoritmo de Regressão](https://github.com/gustavoptavares/Walmart-Vendas)**
 
 * **[Vinho - Algoritmo de Clusterização](https://github.com/gustavoptavares/Vinho)**
