@@ -4,7 +4,7 @@
 
 ## Cientista de Dados | Machine Learning
 
-Cientista de dados com conhecimento em coleta e limpeza de dados, análise exploratória, visualização e comunicação de resultados, modelagem estatistíca, machine learning, algortimos de classificação, algoritmos de clusterização, algoritmos de regressão, algoritmos de série temporais. Proficiente em Python e SQL. Experiente na manipulação e análise de dados, com foco na tomada de decisões baseada em dados.
+Cientista de dados com conhecimento em coleta e limpeza de dados, análise exploratória, visualização e comunicação de resultados, modelagem estatistíca, aprendizado de máquina, algortimos de classificação, algoritmos de clusterização, algoritmos de regressão, algoritmos de série temporais. Proficiente em Python e SQL. Experiente na manipulação e análise de dados, com foco na tomada de decisões baseada em dados.
 
 ## Projetos:
 
