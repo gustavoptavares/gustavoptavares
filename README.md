@@ -10,7 +10,7 @@ Cientista de dados com conhecimento em coleta e limpeza de dados, análise explo
 
 * **[Seguro Saúde - Algoritmo de Regressão](https://github.com/gustavoptavares/Seguro-Saude)**
 
-* **[Jogos de Celular - Sistema de recomendação](https://github.com/gustavoptavares/Jogos-de-Celular)**
+* **[Jogos de Celular - Sistema de Recomendação](https://github.com/gustavoptavares/Jogos-de-Celular)**
   
 * **[Manutenção Preditiva AI4I - Algoritmo de Classificação](https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I)**
 
