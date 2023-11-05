@@ -28,6 +28,8 @@ Bacharelado em Engenharia Mecânica.
 
 ## Projetos:
 
+* **[Prevendo o valor das ações do S&P](https://github.com/gustavoptavares/Acoes-Mercado-Financeiro)**: Neste projeto foi feito, uma análise exploratória, e serão criados 3 modelos preditivos, com o objetivo de prever o valor da ação. Serão utilizados os algoritmos de regressão linear, de redes neurais LSTM (Long Short-Term Memory) e o ARIMA (Auto Regressive Integrated Moving Averages).
+  
 * **[Entendendo os custos de seguro saúde](https://github.com/gustavoptavares/Seguro-Saude)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão do custo de seguro.
 
 * **[Sistema de recomendação para jogos de celular](https://github.com/gustavoptavares/Jogos-de-Celular)**: Neste projeto foi feito, uma análise exploratória, e foi criado um sistema de recomendação baseado em descrição usando a técnica de Processamento de Linguagem Natural (PLN), e foi utilizado o método de vetorização TF-IDF e a métrica de similaridade do cosseno.
