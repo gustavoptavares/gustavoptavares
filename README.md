@@ -38,7 +38,7 @@ Bacharelado em Engenharia Mecânica.
  
 * **[Prevenindo as falhas de máquinas antes que aconteçam](https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de classificação, utilizando o algortimo de regressão logística para previsão do status da máquina.
 
-* **[Entendendo o valor da vibração para manuntenção preditiva de elevadores](https://github.com/gustavoptavares/Manutencao-Elevador)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados de série temporais para prever o valor absoluto da vibração.
+* **[Elevadores mais seguros e eficientes através da análise da vibração](https://github.com/gustavoptavares/Manutencao-Elevador)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados de série temporais para prever o valor absoluto da vibração.
 
 * **[Entendendo as vendas das lojas do Walmart](https://github.com/gustavoptavares/Walmart-Vendas)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão das vendas.
 
