@@ -4,13 +4,13 @@
 
 ## Cientista de Dados | Machine Learning | Python
 
-Cientista de dados focado em transformar dados em insights acionáveis e soluções inovadoras.  Especializei-me em coleta e limpeza de dados, análise exploratória, visualização e comunicação de resultados, modelagem estatistíca, aprendizado de máquina, big data analytics, usando meu conhecimento para impulsionar a tomada de decisão baseada em dados, otimização de processos e inovação estratégica.
+Cientista de dados focado em transformar dados em insights acionáveis e soluções inovadoras.  Especializei-me em coleta e limpeza de dados, análise exploratória, visualização e comunicação de resultados, modelagem estatistíca, aprendizado de máquina, aprendizado profundo, big data analytics, usando meu conhecimento para impulsionar a tomada de decisão baseada em dados, otimização de processos e inovação estratégica.
 
 ## Habilidades Técnicas:
 
 Linguagens de Programação: Python e SQL.
 
-Ferramentas & Tecnologias: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Scipy.
+Ferramentas & Tecnologias: TensorFlow, Pytorch, Statsmodel, Pycaret, Opencv, Yolo, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn e Scipy.
 
 Bancos de Dados: MySQL.
 
