@@ -40,6 +40,8 @@ Bacharelado em Engenharia Mecânica.
 
 * **[Elevadores mais seguros e eficientes através da análise da vibração](https://github.com/gustavoptavares/Manutencao-Elevador)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados de série temporais para prever o valor absoluto da vibração.
 
+* **[Fazendo o monitoramento das condições das máquinas](https://github.com/gustavoptavares/Monitoramento-AI4I)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de classificação, utilizando o algortimo de árvore de decisão, para monitoramento de cada condição da máquina.
+  
 * **[Entendendo as vendas das lojas do Walmart](https://github.com/gustavoptavares/Walmart-Vendas)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão das vendas.
 
 * **[Entendendo a análise química para fazer o agrupamento dos vinhos](https://github.com/gustavoptavares/Vinho)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de clusterização, utilizando o algoritmo de kmeans para fazer agrupamento dos vinhos de acordo com a análise química.
