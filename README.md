@@ -29,6 +29,8 @@ Bacharelado em Engenharia Mecânica.
 ## Projetos:
 
 * **[Prevendo o valor das ações do S&P](https://github.com/gustavoptavares/Acoes-Mercado-Financeiro)**: Neste projeto foi feito, uma análise exploratória, e serão criados 3 modelos preditivos, com o objetivo de prever o valor da ação. Serão utilizados os algoritmos de regressão linear, de redes neurais LSTM (Long Short-Term Memory) e o ARIMA (Auto Regressive Integrated Moving Averages).
+
+* **[Prevendo os resultados do raios-x](https://github.com/gustavoptavares/Classificacao-Raio-X)**: Neste projeto foi feito, o treinamento de um modelo preditivo de classificação de imagens com o tensorflow e keras, para idenfiticar e fazer a classificação do raio-x para identificar se o paciente tem pneumonia ou não, é será demonstrado a métrica de desempenho em cada classificação.
   
 * **[Entendendo os custos de seguro saúde](https://github.com/gustavoptavares/Seguro-Saude)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão do custo de seguro.
 
