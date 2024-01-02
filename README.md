@@ -2,9 +2,11 @@
   <img src="CANVA1.jpg">
 </p>
 
-## Cientista de Dados | Machine Learning | Python
+## Cientista de Dados | Python | SQL
 
 Cientista de dados focado em transformar dados em insights acionáveis e soluções inovadoras.  Especializei-me em coleta e limpeza de dados, análise exploratória, visualização e comunicação de resultados, modelagem estatistíca, aprendizado de máquina, aprendizado profundo, big data analytics, usando meu conhecimento para impulsionar a tomada de decisão baseada em dados, otimização de processos e inovação estratégica.
+
+Tenho experiência em uma série de projetos focados em ciência de dados e aprendizado de máquina. Os projetos incluem análises exploratórias, visualizações de dados, e o uso de modelos preditivos em diferentes contextos, como previsão de valores de ações, classificação de imagens de raio-x, previsão de custos de seguro saúde, e sistemas de recomendação. Há também aplicações em manutenção preditiva, análise e previsão de vendas, teste A/B e segmentação de agrupamento de vinhos com base em análises químicas.
 
 ## Habilidades Técnicas:
 
@@ -30,6 +32,8 @@ Bacharelado em Engenharia Mecânica.
 
 * **[Prevendo o valor das ações do S&P](https://github.com/gustavoptavares/Acoes-Mercado-Financeiro)**: Neste projeto foi feito, uma análise exploratória, e serão criados 3 modelos preditivos, com o objetivo de prever o valor da ação. Serão utilizados os algoritmos de regressão linear, de redes neurais LSTM (Long Short-Term Memory) e o ARIMA (Auto Regressive Integrated Moving Averages).
 
+* **[Fazendo o agrupamento dos programas da Netflix](https://github.com/gustavoptavares/cluster_netflix)**: Neste projeto será feito, uma análise exploratória, e modelo de machine learning de clusterização, utilizando o algoritmo de kmeans, para agrupar os programas da Netflix em determinados clusters, de modo que os programas dentro de um cluster sejam semelhantes entre si e os programas em diferentes clusters sejam diferentes entre si.
+  
 * **[Prevendo os resultados do raios-x](https://github.com/gustavoptavares/Classificacao-Raio-X)**: Neste projeto foi feito, o treinamento de um modelo preditivo de classificação de imagens com o tensorflow e keras, para idenfiticar e fazer a classificação do raio-x para identificar se o paciente tem pneumonia ou não, é será demonstrado a métrica de desempenho em cada classificação.
   
 * **[Entendendo os custos de seguro saúde](https://github.com/gustavoptavares/Seguro-Saude)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão do custo de seguro.
