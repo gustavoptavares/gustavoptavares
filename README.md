@@ -1,10 +1,10 @@
-## Dados | Machine Learning | Visão Computacional
+## <H1> Dados | Machine Learning | Visão Computacional </H1>
 
 Cientista de dados com formação em graduação Engenharia Mecânica pelo Centro Universitário do Sul de Minas (UNIS-MG), e mestrado em Engenharia Mecânica pela Universidade Federal de Itajubá (UNIFEI). Atualmente, cursando pós-graduação de Inteligência Artificial e Aprendizado de Máquina, na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).
 
 Tenho experiência em uma série de projetos focados em ciência de dados e aprendizado de máquina. Os projetos incluem análises exploratórias, visualizações de dados, e o uso de modelos preditivos em diferentes contextos, como previsão de valores de ações, classificação de imagens de raio-x, previsão de custos de seguro saúde, e sistemas de recomendação. Há também aplicações em manutenção preditiva, análise e previsão de vendas, teste A/B e segmentação de agrupamento de vinhos com base em análises químicas.
 
-## Habilidades Técnicas:
+## <H2> Habilidades Técnicas </H2> 
 
 Linguagens de Programação: Python e SQL.
 
@@ -18,13 +18,13 @@ Cloud Computing: Azure e Google Cloud.
 
 Outras Habilidades: Processamento de linguagem natural (NLP), visão computacional, teste A/B , otimização.
 
-## Educação:
+## <H2> Educação </H2>
 
 Mestrado em Ciências da Engenharia Mecânica.
 
 Bacharelado em Engenharia Mecânica.
 
-## Projetos:
+## <H2> Projetos </H2>
 
 * **[Prevendo o valor das ações do S&P](https://github.com/gustavoptavares/Acoes-Mercado-Financeiro)**: Neste projeto foi feito, uma análise exploratória, e serão criados 3 modelos preditivos, com o objetivo de prever o valor da ação. Serão utilizados os algoritmos de regressão linear, de redes neurais LSTM (Long Short-Term Memory) e o ARIMA (Auto Regressive Integrated Moving Averages).
 
