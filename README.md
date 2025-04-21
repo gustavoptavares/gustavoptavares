@@ -26,6 +26,8 @@ Bacharelado em Engenharia Mecânica.
 
 ## <H2> Projetos </H2>
 
+* **[Agente de Investimentos Avançado com Streamlit, LangGraph e Mistral 7B](https://github.com/gustavoptavares/agente_financeiro)**: Este projeto é uma aplicação interativa construída com Streamlit, que utiliza LangGraph, OpenAI API (Mistral 7B via OpenRouter) e a biblioteca yfinance para realizar uma análise técnica e fundamentalista comparativa de ações da bolsa de valores.
+
 * **[Prevendo o valor das ações do S&P](https://github.com/gustavoptavares/Acoes-Mercado-Financeiro)**: Neste projeto foi feito, uma análise exploratória, e serão criados 3 modelos preditivos, com o objetivo de prever o valor da ação. Serão utilizados os algoritmos de regressão linear, de redes neurais LSTM (Long Short-Term Memory) e o ARIMA (Auto Regressive Integrated Moving Averages).
 
 * **[Fazendo o agrupamento dos programas da Netflix](https://github.com/gustavoptavares/cluster_netflix)**: Neste projeto será feito, uma análise exploratória, e modelo de machine learning de clusterização, utilizando o algoritmo de kmeans, para agrupar os programas da Netflix em determinados clusters, de modo que os programas dentro de um cluster sejam semelhantes entre si e os programas em diferentes clusters sejam diferentes entre si.
