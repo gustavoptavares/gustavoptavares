@@ -1,4 +1,4 @@
-## <H1> Dados | Machine Learning | Visão Computacional </H1>
+## <H1> Cientista de Dados | Engenheiro de IA </H1>
 
 Cientista de dados com formação em graduação Engenharia Mecânica pelo Centro Universitário do Sul de Minas (UNIS-MG), e mestrado em Engenharia Mecânica pela Universidade Federal de Itajubá (UNIFEI). Atualmente, cursando pós-graduação de Inteligência Artificial e Aprendizado de Máquina, na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).
 
@@ -25,6 +25,8 @@ Mestrado em Ciências da Engenharia Mecânica.
 Bacharelado em Engenharia Mecânica.
 
 ## <H2> Projetos </H2>
+
+* **[Agente CriptoAI](https://github.com/gustavoptavares/agente_cripto)**: Este repositório apresenta o Agente CriptoAI, um agente financeiro de IA desenvolvido com LangGraph, OpenAI (GPT-4), Binance API, Tweepy, TextBlob, Plotly, FPDF, Streamlit, focado na análise de criptomoedas. A solução simula um especialista que orienta o investidor a partir de dados técnicos e fundamentalistas do mercado cripto.
 
 * **[Agente de Investimentos Avançado com Streamlit, LangGraph e Mistral 7B](https://github.com/gustavoptavares/agente_financeiro)**: Este projeto é uma aplicação interativa construída com Streamlit, que utiliza LangGraph, OpenAI API (Mistral 7B via OpenRouter) e a biblioteca yfinance para realizar uma análise técnica e fundamentalista comparativa de ações da bolsa de valores.
 
