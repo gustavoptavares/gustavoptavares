@@ -1,6 +1,6 @@
 ## <H1> Cientista de Dados | Engenheiro de IA </H1>
 
-Cientista de dados com formação em graduação Engenharia Mecânica pelo Centro Universitário do Sul de Minas (UNIS-MG), e mestrado em Engenharia Mecânica pela Universidade Federal de Itajubá (UNIFEI). Atualmente, cursando pós-graduação de Inteligência Artificial e Aprendizado de Máquina, na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).
+Tenho formação em graduação Engenharia Mecânica pelo Centro Universitário do Sul de Minas (UNIS-MG), e mestrado em Engenharia Mecânica pela Universidade Federal de Itajubá (UNIFEI). Atualmente, cursando pós-graduação de Inteligência Artificial e Aprendizado de Máquina, na Pontifícia Universidade Católica de Minas Gerais (PUC-Minas).
 
 Tenho experiência em uma série de projetos focados em ciência de dados e aprendizado de máquina. Os projetos incluem análises exploratórias, visualizações de dados, e o uso de modelos preditivos em diferentes contextos, como previsão de valores de ações, classificação de imagens de raio-x, previsão de custos de seguro saúde, e sistemas de recomendação. Há também aplicações em manutenção preditiva, análise e previsão de vendas, teste A/B e segmentação de agrupamento de vinhos com base em análises químicas.
 
