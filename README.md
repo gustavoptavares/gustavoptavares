@@ -26,6 +26,8 @@ Bacharelado em Engenharia Mecânica.
 
 ## <H2> Projetos </H2>
 
+* **[Agente Inteligente de Consulta a Dados](https://github.com/gustavoptavares/agente_nl2sql)**: Este projeto é um sistema interativo de análise de dados via linguagem natural, que transforma perguntas em linguagem humana em consultas SQL, executa essas consultas e apresenta os resultados de forma compreensível e visual.
+  
 * **[Agente CriptoAI](https://github.com/gustavoptavares/agente_cripto)**: Este repositório apresenta o Agente CriptoAI, um agente financeiro de IA desenvolvido com LangGraph, OpenAI (GPT-4), Binance API, Tweepy, TextBlob, Plotly, FPDF, Streamlit, focado na análise de criptomoedas. A solução simula um especialista que orienta o investidor a partir de dados técnicos e fundamentalistas do mercado cripto.
 
 * **[Agente de Investimentos Avançado com Streamlit, LangGraph e Mistral 7B](https://github.com/gustavoptavares/agente_financeiro)**: Este projeto é uma aplicação interativa construída com Streamlit, que utiliza LangGraph, OpenAI API (Mistral 7B via OpenRouter) e a biblioteca yfinance para realizar uma análise técnica e fundamentalista comparativa de ações da bolsa de valores.
