@@ -26,6 +26,8 @@ Bacharelado em Engenharia Mecânica.
 
 ## <H2> Projetos </H2>
 
+* **[Agente Gerador de Newsletters com IA](https://github.com/gustavoptavares/agente_newsletter)**: Este projeto implementa um agente de inteligência artificial baseado em LangGraph para automatizar a criação de newsletters informativas a partir de temas definidos. O agente utiliza modelos de linguagem para pesquisar, analisar e compor conteúdos ricos, prontos para distribuição por e-mail, blogs ou redes sociais.
+
 * **[Agente Inteligente de Consulta a Dados](https://github.com/gustavoptavares/agente_nl2sql)**: Este projeto é um sistema que oferece uma interface intuitiva desenvolvida com Streamlit, onde usuários podem carregar arquivos de dados (CSV, Excel ou SQLite), fazer perguntas em linguagem natural e receber respostas precisas, visualizações automáticas e análises descritivas. Ele utiliza LangGraph, LangChain e modelos da OpenAI para orquestrar agentes inteligentes em um fluxo estruturado de compreensão, geração de SQL, execução e resposta.
   
 * **[Agente CriptoAI](https://github.com/gustavoptavares/agente_cripto)**: Este repositório apresenta o Agente CriptoAI, um agente financeiro de IA desenvolvido com LangGraph, OpenAI (GPT-4), Binance API, Tweepy, TextBlob, Plotly, FPDF, Streamlit, focado na análise de criptomoedas. A solução simula um especialista que orienta o investidor a partir de dados técnicos e fundamentalistas do mercado cripto.
