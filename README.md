@@ -45,12 +45,6 @@ Bacharelado em Engenharia Mecânica.
 * **[Sistema de recomendação para jogos de celular](https://github.com/gustavoptavares/Jogos-de-Celular)**: Neste projeto foi feito, uma análise exploratória, e foi criado um sistema de recomendação baseado em descrição usando a técnica de Processamento de Linguagem Natural (PLN), e foi utilizado o método de vetorização TF-IDF e a métrica de similaridade do cosseno.
 
 * **[Teste A/B para jogo de celular](https://github.com/gustavoptavares/Teste-A-B-Jogo-de-Celular)**: Neste projeto foi feito, uma análise exploratória, e foi feito teste A/B para avaliar o impacto da mudança das versões dos jogos na retenção de jogadores.
- 
-* **[Prevenindo as falhas de máquinas antes que aconteçam](https://github.com/gustavoptavares/Manutencao-Preditiva-AI4I)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de classificação, utilizando o algortimo de regressão logística para previsão do status da máquina.
-
-* **[Elevadores mais seguros e eficientes através da análise da vibração](https://github.com/gustavoptavares/Manutencao-Elevador)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de LSTM no conjunto de dados de série temporais para prever o valor absoluto da vibração.
-
-* **[Fazendo o monitoramento das condições das máquinas](https://github.com/gustavoptavares/Monitoramento-AI4I)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de classificação, utilizando o algortimo de árvore de decisão, para monitoramento de cada condição da máquina.
   
 * **[Entendendo as vendas das lojas do Walmart](https://github.com/gustavoptavares/Walmart-Vendas)**: Neste projeto foi feita análise exploratória, visualização dos dados, e foi aplicado o modelo preditivo de regressão, utilizando o algoritmo de regressão linear para previsão das vendas.
 
